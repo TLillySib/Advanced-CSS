@@ -1,5 +1,5 @@
 # Advanced-CSS
-
+Link to webpage: https://tlillysib.github.io/Advanced-CSS/
 Assignment 2 Updated
 
 
@@ -56,3 +56,6 @@ Repository contains multiple descriptive commit messages.
 
 Repository contains quality readme with description, screenshot, link to deployed application.
 
+Author Tomeeka Lilly
+
+JHU Coding Bootcamp projects
